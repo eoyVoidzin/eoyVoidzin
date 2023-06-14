@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**eoyVoidzin/eoyVoidzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h1 align="center">🕊️ › Hello! My name is Gabriel and i've been a developer for 2 years.</h1>
+   <h2 align="center">https://yvoidzin.me</h2>
+ <br><br>
+    <table>
+      <td style="padding: 0; width=50%">
+       <img src="https://discord.c99.nl/widget/theme-4/1013215993180475453.png" />
+      </td>
+ </table>
+    <table>
+      <td style="padding: 0; width=50%">
+       <img src="https://github-readme-stats.vercel.app/api/?username=yVoidzin&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=true" />
+      </td>
+      <td style="padding: 0; width=50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVoidzin&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=true" />
+      </td>
+     </tr>
+ </table>
+  <h1 align="center">🛠️ › Used Work Tools</h1>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  ------------------------------------------------------------------
+  
+</div>
