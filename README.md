@@ -7,7 +7,7 @@
  <br><br>
     <table>
       <td style="padding: 0; width=50%">
-       <img src="https://discord.c99.nl/widget/theme-4/1013215993180475453.png" />
+       <img src="https://discord.c99.nl/widget/theme-4/683728874390945823.png" />
       </td>
  </table>
     <table>
