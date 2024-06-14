@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------
 
- <h1 align="center">🕊️ › Hello! My name is Gabriel and i've been a developer for 4 years.</h1>
+ <h2 align="center">🧠 › Hello! My name is Gabriel and i've been a developer for 4 years.</h2>
  <br>
     <table>
       <td style="padding: 0; width=50%">
