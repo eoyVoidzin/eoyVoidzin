@@ -2,7 +2,8 @@
 
 ------------------------------------------------------------------
 
- <h2 align="center">🧠 › Hello! My name is Gabriel and i've been a developer for 4 years.</h2>
+ <h2 align="center">🧠 › Olá! Meu nome é Gabriel e sou desenvolvedor há 4 anos.</h2>
+<h3> aligh="center">Aprendendo constantemente. Valorizo ​​código limpo, solução eficaz de problemas e melhoria contínua em minhas práticas de desenvolvimento.</h3>
  <br>
     <table>
       <td style="padding: 0; width=50%">
